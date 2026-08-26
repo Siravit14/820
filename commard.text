@@ -1,0 +1,6 @@
+docker -v 
+docker run hello-world
+docker ps --all
+docker run busybox ping google.com
+docker run -p 80:80 nginx
+docker run -p 9000:80 nginx
