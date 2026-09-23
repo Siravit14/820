@@ -1,0 +1,3 @@
+kubectl get all
+kubectl get pods
+kubectl apply -f .\client-deployment.yml
